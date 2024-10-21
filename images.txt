@@ -13,4 +13,4 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 finetu/aquarhome:latest
 # immich-server
 # immich-machine-learning
-portainer:latest
+portainer/portainer-ce:2.21.3
