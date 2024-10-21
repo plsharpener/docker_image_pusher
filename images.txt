@@ -8,8 +8,8 @@ mariadb:10.11
 redis:6
 deluan/navidrome:latest
 lscr.io/linuxserver/qbittorrent:latest
-# ghcr.io/immich-app/immich-server
-ghcr.io/immich-app/immich-machine-learning
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 finetu/aquarhome:latest
+immich-server
+immich-machine-learning
