@@ -1,6 +1,6 @@
 nginx
 xhofe/alist:latest
-owncloud/server
+owncloud
 nyanmisaka/jellyfin
 ghcr.io/linuxserver/syncthing
 photoprism/photoprism:latest
@@ -11,5 +11,5 @@ lscr.io/linuxserver/qbittorrent:latest
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 finetu/aquarhome:latest
-immich-server
-immich-machine-learning
+# immich-server
+# immich-machine-learning
