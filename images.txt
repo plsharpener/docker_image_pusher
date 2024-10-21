@@ -1,6 +1,6 @@
 nginx
 xhofe/alist:latest
-owncloud
+owncloud/server:10.15
 nyanmisaka/jellyfin
 ghcr.io/linuxserver/syncthing
 photoprism/photoprism:latest
