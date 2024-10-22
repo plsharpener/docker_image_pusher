@@ -12,6 +12,8 @@ lscr.io/linuxserver/qbittorrent:latest
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 finetu/aquarhome:latest
-# immich-server
-# immich-machine-learning
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
 portainer/portainer-ce:2.21.3
+docker.io/redis:6.2-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
