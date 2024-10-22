@@ -17,3 +17,4 @@ portainer/portainer-ce:2.21.3
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 owncloud/server:10.15
+registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos:latest
