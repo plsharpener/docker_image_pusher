@@ -1,6 +1,5 @@
 nginx
 xhofe/alist:latest
-owncloud/server:10.15
 nextcloud:22.2.4-apache
 nyanmisaka/jellyfin
 ghcr.io/linuxserver/syncthing
@@ -17,3 +16,4 @@ ghcr.io/immich-app/immich-machine-learning:release
 portainer/portainer-ce:2.21.3
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+owncloud/server:10.15
