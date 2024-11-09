@@ -1,7 +1,6 @@
 nginx
 xhofe/alist:latest
 nextcloud:22.2.4-apache
-nyanmisaka/jellyfin
 ghcr.io/linuxserver/syncthing
 photoprism/photoprism:latest
 mariadb:10.11
@@ -20,3 +19,4 @@ owncloud/server:10.15
 registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos:latest
 p3terx/aria2-pro
 p3terx/ariang
+nyanmisaka/jellyfin
