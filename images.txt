@@ -21,3 +21,4 @@ docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 finetu/aquarhome:latest
 laoyutang/clash-and-dashboard
+helloz/transmission
